@@ -1,3 +1,4 @@
+#A Tic Tac Toe game that uses 1's and 2's instead of x's and o's
 from numpy import *
 arr=array([[0 for x in range(3)]for y in range(3)])
 print("Player1 will always go first, decide among yourself who will be Player1 and who will be Player2..Happy play..")
