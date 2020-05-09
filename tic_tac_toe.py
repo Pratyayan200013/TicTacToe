@@ -5,7 +5,7 @@ print("Player1 will always go first, decide among yourself who will be Player1 a
 print(arr)
 print("Read the instructions below")
 print("You CAN'T CHOOSE THE PLACES WHICH ARE ALREADY FILLED WITH 1'S AND 2'S !!!")
- print("Give the index here you want to insert your value.. E.g- '0' enter '1' enter will insert your value in the position [0][1]")
+print("Give the index here you want to insert your value.. E.g- '0' enter '1' enter will insert your value in the position [0][1]")
 for z in range(10):
     a = input("Player1 or Player2: ")
     if a=='Player1'.lower() or a=='Player1':
